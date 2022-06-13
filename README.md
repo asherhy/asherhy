@@ -54,7 +54,7 @@ kai github stats](https://github-readme-stats.vercel.app/api?username=asherhy&th
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/asher-wang" target="_blank">
+<a href="https://www.linkedin.com/in/asherwang" target="_blank">
   <img align="center" alt="Asher | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> &nbsp;&nbsp;
 <a href="mailto:asherwang1301@gmail.com" target="_blank">
