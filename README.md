@@ -25,24 +25,24 @@
 
 ### 🏆 GitHub Profile Trophy:
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=zzhikai&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=asherhy&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
  </a> 
 
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
 ![
-kai github stats](https://github-readme-stats.vercel.app/api?username=zzhikai&theme=midnight-purple&show_icons=true&count_private=true)
+kai github stats](https://github-readme-stats.vercel.app/api?username=asherhy&theme=midnight-purple&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zzhikai&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zzhikai&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asherhy&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asherhy&theme=nord_dark)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zzhikai&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asherhy&theme=github)
 
  <br> 
  
@@ -70,7 +70,7 @@ kai github stats](https://github-readme-stats.vercel.app/api?username=zzhikai&th
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/zzhikai/count.svg" />  
+  <img src="https://profile-counter.glitch.me/asherhy/count.svg" />  
 </p>
    
   ---
