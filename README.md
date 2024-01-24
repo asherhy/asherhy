@@ -1,4 +1,4 @@
-### Hi there, I'm Asher, Year 3 Computer Science from National University of Singapore(NUS)<img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Asher, Final Year Computer Science from National University of Singapore(NUS)<img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
