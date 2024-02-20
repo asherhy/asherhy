@@ -3,9 +3,7 @@
 ---
 
 <br />
-- 🌱 Currently I'm learning Front-end Development 
-<br />
-- 👯 I’m looking for internship opportunities.
+- 👯 I’m looking for fulltime opportunities.
 <br />
 
 ### 🗃 Languages and Tools:
@@ -17,7 +15,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 <p/>
